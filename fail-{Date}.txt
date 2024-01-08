@@ -1,0 +1,1 @@
+{"Timestamp":"2024-01-06T09:56:29.7190033+05:30","Level":"Information","MessageTemplate":"Hello, world!"}
